@@ -52,7 +52,7 @@ A ``run_queries.sh`` script should run three queries, one for each of the follow
 
 ### Starter Code
 
-Refer to [this lab's starter code](/Week5/Code/3-Wednesday/5-SQL-Joins-Lab/starter-code), as well as the [SQL JOINs lesson starter code](/Week5/Code/3-Wednesday/4-SQL-Joins-Lesson/starter-code) to build your solution.
+Refer to this lab's starter code to build your solution.
 
 > Note for Windows Users: [Importing Scripts Permission Issue](https://dba.stackexchange.com/questions/29767/permission-denied-in-file-trying-to-import)
 
